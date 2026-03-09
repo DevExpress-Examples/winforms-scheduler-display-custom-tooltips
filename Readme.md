@@ -9,7 +9,7 @@
 
 This example assigns the WinForms ToolTipController component to the [SchedulerControl.ToolTipController](https://docs.devexpress.com/WindowsForms/DevExpress.XtraScheduler.SchedulerControl.ToolTipController) property and handles the [ToolTipController.BeforeShow](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.ToolTipController.BeforeShow) event to display custom tooltips for appointments, resource and day headers.
 
-![WinForms Scheduler - Display custom tooltips for appointments, resource and day headers](https://raw.githubusercontent.com/DevExpress-Examples/how-to-display-custom-tooltips-for-appointments-resource-headers-and-day-headers-e4137/13.1.4%2B/media/winforms-scheduler-custom-tooltips.png)
+![WinForms Scheduler - Display custom tooltips for appointments, resource and day headers](media/winforms-scheduler-custom-tooltips.png)
 
 
 ## Files to Review
@@ -27,3 +27,4 @@ This example assigns the WinForms ToolTipController component to the [SchedulerC
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
